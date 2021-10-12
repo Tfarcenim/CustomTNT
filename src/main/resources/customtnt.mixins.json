@@ -1,12 +1,12 @@
 {
   "required": true,
-  "package": "com.example.examplemod.mixin",
+  "package": "tfar.customtnt.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "examplemod.refmap.json",
+  "refmap": "customtnt.refmap.json",
   "mixins": [
   ],
   "client":[
-    "ExampleMixin"
+    "MouseHelperMixin"
   ],
   "injectors": {
     "defaultRequire": 1

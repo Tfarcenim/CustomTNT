@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "active=false,unstable=false": {
+      "model": "customtnt:block/vacuum_tnt"
+    },
+    "active=true,unstable=false": {
+      "model": "customtnt:block/vacuum_tnt"
+    },
+    "active=false,unstable=true": {
+      "model": "customtnt:block/vacuum_tnt"
+    },
+    "active=true,unstable=true": {
+      "model": "customtnt:block/vacuum_tnt"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "unstable=false": {
+      "model": "customtnt:block/miracle_grow_tnt"
+    },
+    "unstable=true": {
+      "model": "customtnt:block/miracle_grow_tnt"
+    }
+  }
+}
